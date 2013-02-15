@@ -1,7 +1,0 @@
-//
-// Prefix header for all source files of the 'Dragon' target in the 'Dragon' project
-//
-
-#ifdef __OBJC__
-	#import <Foundation/Foundation.h>
-#endif

@@ -1,205 +1,0 @@
-TDragon
-v5
-r1
-cCheck dependencies
-cProcessPCH /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-ehxmxllvwtsswjgqdaxgkvyjayzv/Dragon-Prefix.pch.pth Dragon/Dragon-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cProcessPCH /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-disfqmbmngbotfegmynqzmojbgbu/Dragon-Prefix.pch.pth Dragon/Dragon-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/DRView.o /Users/tryumura/_TestSource/Dragon/Dragon/Headers/DRView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/Dragon.o /Users/tryumura/_TestSource/Dragon/Dragon/Headers/Dragon.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/DRView.o /Users/tryumura/_TestSource/Dragon/Dragon/Headers/DRView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/Dragon.o /Users/tryumura/_TestSource/Dragon/Dragon/Headers/Dragon.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/libDragon.a normal armv7s
-cLibtool /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/libDragon.a normal armv7
-cCreateUniversalBinary /Users/tryumura/_TestSource/Dragon/build/Release-iphoneos/libDragon.a normal "armv7 armv7s"
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
-c0000000050ED385D0000000000000110
-t1357723741
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c0000000051149F36000000000062AD10
-t1360305974
-s6466832
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c0000000051149F3600000000000015F7
-t1360305974
-s5623
-
-N/Users/tryumura/_TestSource/Dragon/Dragon/Dragon-Prefix.pch
-c00000000511D81970000000000000096
-t1360888215
-s150
-i<Foundation/Foundation.h>
-
-N/Users/tryumura/_TestSource/Dragon/Dragon/Headers/DRView.m
-c00000000511D83F100000000000000C1
-t1360888817
-s193
-
-N/Users/tryumura/_TestSource/Dragon/Dragon/Headers/Dragon.m
-c00000000511D819700000000000000C1
-t1360888215
-s193
-
-N/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/DRView.o
-t2
-s0
-
-N/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/Dragon.LinkFileList
-c00000000511D845700000000000000E4
-t1360888919
-s228
-
-N/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/Dragon.o
-t2
-s0
-
-N/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/libDragon.a
-t2
-s0
-
-N/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/DRView.o
-t2
-s0
-
-N/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/Dragon.LinkFileList
-c00000000511D845700000000000000E6
-t1360888919
-s230
-
-N/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/Dragon.o
-t2
-s0
-
-N/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/libDragon.a
-t2
-s0
-
-N/Users/tryumura/_TestSource/Dragon/build/Release-iphoneos/libDragon.a
-t2
-s0
-
-N/var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-disfqmbmngbotfegmynqzmojbgbu/Dragon-Prefix.pch.pth
-t2
-s0
-
-N/var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-ehxmxllvwtsswjgqdaxgkvyjayzv/Dragon-Prefix.pch.pth
-t2
-s0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies3e4067d7bbcdb641^759477d7bbcdb641^---0#1#0#--18"Check dependencies36"78FE416E-D139-414C-B40D-0C61A9F10A70-
-
-CCompileC build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/DRView.o /Users/tryumura/_TestSource/Dragon/Dragon/Headers/DRView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382581719.752208
-e382581719.828256
-r1
-xCompileC
-xbuild/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/DRView.o
-x/Users/tryumura/_TestSource/Dragon/Dragon/Headers/DRView.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/tryumura/_TestSource/Dragon/Dragon/Headers/DRView.mb210c1d7bbcdb641^ff07d4d7bbcdb641^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/tryumura/_TestSource/Dragon/Dragon/Headers/DRView.m0000000000000000^2992"CompileC build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/DRView.o Dragon/Headers/DRView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tryumura/_TestSource/Dragon    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-generated-files.hmap -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-own-target-headers.hmap -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-all-target-headers.hmap -iquote /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-project-headers.hmap -I/Users/tryumura/_TestSource/Dragon/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/DerivedSources/armv7 -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/DerivedSources -F/Users/tryumura/_TestSource/Dragon/build/Release-iphoneos -include /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-ehxmxllvwtsswjgqdaxgkvyjayzv/Dragon-Prefix.pch -MMD -MT dependencies -MF /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/DRView.d --serialize-diagnostics /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/DRView.dia -c /Users/tryumura/_TestSource/Dragon/Dragon/Headers/DRView.m -o /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/DRView.o36"20EB0E02-6183-43AB-B99A-6480FC79D79A-
-
-CCompileC build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/Dragon.o /Users/tryumura/_TestSource/Dragon/Dragon/Headers/Dragon.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382581719.752280
-e382581719.827100
-r1
-xCompileC
-xbuild/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/Dragon.o
-x/Users/tryumura/_TestSource/Dragon/Dragon/Headers/Dragon.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/tryumura/_TestSource/Dragon/Dragon/Headers/Dragon.m7e18c1d7bbcdb641^e4dbd3d7bbcdb641^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/tryumura/_TestSource/Dragon/Dragon/Headers/Dragon.m0000000000000000^2992"CompileC build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/Dragon.o Dragon/Headers/Dragon.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tryumura/_TestSource/Dragon    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-generated-files.hmap -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-own-target-headers.hmap -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-all-target-headers.hmap -iquote /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-project-headers.hmap -I/Users/tryumura/_TestSource/Dragon/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/DerivedSources/armv7 -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/DerivedSources -F/Users/tryumura/_TestSource/Dragon/build/Release-iphoneos -include /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-ehxmxllvwtsswjgqdaxgkvyjayzv/Dragon-Prefix.pch -MMD -MT dependencies -MF /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/Dragon.d --serialize-diagnostics /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/Dragon.dia -c /Users/tryumura/_TestSource/Dragon/Dragon/Headers/Dragon.m -o /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/Dragon.o36"13B04355-5882-4B87-B0B3-2D6D77C164AC-
-
-CCompileC build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/DRView.o /Users/tryumura/_TestSource/Dragon/Dragon/Headers/DRView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382581719.750440
-e382581719.819052
-r1
-xCompileC
-xbuild/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/DRView.o
-x/Users/tryumura/_TestSource/Dragon/Dragon/Headers/DRView.m
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/tryumura/_TestSource/Dragon/Dragon/Headers/DRView.m1b85c0d7bbcdb641^dcbcd1d7bbcdb641^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/tryumura/_TestSource/Dragon/Dragon/Headers/DRView.m0000000000000000^2999"CompileC build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/DRView.o Dragon/Headers/DRView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tryumura/_TestSource/Dragon    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-generated-files.hmap -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-own-target-headers.hmap -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-all-target-headers.hmap -iquote /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-project-headers.hmap -I/Users/tryumura/_TestSource/Dragon/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/DerivedSources/armv7s -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/DerivedSources -F/Users/tryumura/_TestSource/Dragon/build/Release-iphoneos -include /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-disfqmbmngbotfegmynqzmojbgbu/Dragon-Prefix.pch -MMD -MT dependencies -MF /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/DRView.d --serialize-diagnostics /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/DRView.dia -c /Users/tryumura/_TestSource/Dragon/Dragon/Headers/DRView.m -o /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/DRView.o36"A416374E-60BC-420B-A019-03FEF855D332-
-
-CCompileC build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/Dragon.o /Users/tryumura/_TestSource/Dragon/Dragon/Headers/Dragon.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382581719.750654
-e382581719.818672
-r1
-xCompileC
-xbuild/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/Dragon.o
-x/Users/tryumura/_TestSource/Dragon/Dragon/Headers/Dragon.m
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/tryumura/_TestSource/Dragon/Dragon/Headers/Dragon.m85b2c0d7bbcdb641^55a1d1d7bbcdb641^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/tryumura/_TestSource/Dragon/Dragon/Headers/Dragon.m0000000000000000^2999"CompileC build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/Dragon.o Dragon/Headers/Dragon.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tryumura/_TestSource/Dragon    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-generated-files.hmap -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-own-target-headers.hmap -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-all-target-headers.hmap -iquote /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-project-headers.hmap -I/Users/tryumura/_TestSource/Dragon/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/DerivedSources/armv7s -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/DerivedSources -F/Users/tryumura/_TestSource/Dragon/build/Release-iphoneos -include /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-disfqmbmngbotfegmynqzmojbgbu/Dragon-Prefix.pch -MMD -MT dependencies -MF /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/Dragon.d --serialize-diagnostics /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/Dragon.dia -c /Users/tryumura/_TestSource/Dragon/Dragon/Headers/Dragon.m -o /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/Dragon.o36"C81F9E64-7F83-476F-B574-0DF2BAF37DEE-
-
-CCreateUniversalBinary /Users/tryumura/_TestSource/Dragon/build/Release-iphoneos/libDragon.a normal "armv7 armv7s"
-s382581719.853501
-e382581719.942084
-r1
-xCreateUniversalBinary
-x/Users/tryumura/_TestSource/Dragon/build/Release-iphoneos/libDragon.a
-xnormal
-xarmv7 armv7s
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Create universal binary /Users/tryumura/_TestSource/Dragon/build/Release-iphoneos/libDragon.ae2c9dad7bbcdb641^5e2bf1d7bbcdb641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/tryumura/_TestSource/Dragon/build/Release-iphoneos/libDragon.a000000000080d041^449"CreateUniversalBinary build/Release-iphoneos/libDragon.a normal "armv7 armv7s"    cd /Users/tryumura/_TestSource/Dragon    libtool -static /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/libDragon.a /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/libDragon.a -o /Users/tryumura/_TestSource/Dragon/build/Release-iphoneos/libDragon.a36"315A4260-73C2-4F3B-B64B-60E1575227C8-
-
-CLibtool /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/libDragon.a normal armv7
-s382581719.834668
-e382581719.846045
-r1
-xLibtool
-x/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/libDragon.a
-xnormal
-xarmv7
-o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Libtool build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/libDragon.a normal armv74489d6d7bbcdb641^9a96d8d7bbcdb641^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--768"Libtool build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/libDragon.a normal armv7    cd /Users/tryumura/_TestSource/Dragon    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/tryumura/_TestSource/Dragon/build/Release-iphoneos -filelist /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/Dragon.LinkFileList -ObjC -framework Foundation -o /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7/libDragon.a36"2AA1FAB3-8980-47DF-8FA5-162320C2A8A4-
-
-CLibtool /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/libDragon.a normal armv7s
-s382581719.826616
-e382581719.843651
-r1
-xLibtool
-x/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/libDragon.a
-xnormal
-xarmv7s
-o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Libtool build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/libDragon.a normal armv7sda1fd4d7bbcdb641^c614d8d7bbcdb641^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--773"Libtool build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/libDragon.a normal armv7s    cd /Users/tryumura/_TestSource/Dragon    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/tryumura/_TestSource/Dragon/build/Release-iphoneos -filelist /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/Dragon.LinkFileList -ObjC -framework Foundation -o /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Objects-normal/armv7s/libDragon.a36"80562930-A908-4B01-9A53-585B1ADC00B6-
-
-CProcessPCH /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-disfqmbmngbotfegmynqzmojbgbu/Dragon-Prefix.pch.pth Dragon/Dragon-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382581719.475281
-e382581719.744041
-r1
-xProcessPCH
-x/var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-disfqmbmngbotfegmynqzmojbgbu/Dragon-Prefix.pch.pth
-xDragon/Dragon-Prefix.pch
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile Dragon/Dragon-Prefix.pch8b187ad7bbcdb641^8e78bed7bbcdb641^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/tryumura/_TestSource/Dragon/Dragon/Dragon-Prefix.pch0000000000000000^3053"ProcessPCH /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-disfqmbmngbotfegmynqzmojbgbu/Dragon-Prefix.pch.pth Dragon/Dragon-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tryumura/_TestSource/Dragon    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-generated-files.hmap -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-own-target-headers.hmap -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-all-target-headers.hmap -iquote /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-project-headers.hmap -I/Users/tryumura/_TestSource/Dragon/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/DerivedSources/armv7s -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/DerivedSources -F/Users/tryumura/_TestSource/Dragon/build/Release-iphoneos --serialize-diagnostics /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-disfqmbmngbotfegmynqzmojbgbu/Dragon-Prefix.pch.dia -c /Users/tryumura/_TestSource/Dragon/Dragon/Dragon-Prefix.pch -o /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-disfqmbmngbotfegmynqzmojbgbu/Dragon-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-disfqmbmngbotfegmynqzmojbgbu/Dragon-Prefix.pch.d36"121958D2-289F-461B-8BC9-B875630D5844-
-
-CProcessPCH /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-ehxmxllvwtsswjgqdaxgkvyjayzv/Dragon-Prefix.pch.pth Dragon/Dragon-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382581719.475277
-e382581719.745361
-r1
-xProcessPCH
-x/var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-ehxmxllvwtsswjgqdaxgkvyjayzv/Dragon-Prefix.pch.pth
-xDragon/Dragon-Prefix.pch
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile Dragon/Dragon-Prefix.pch48187ad7bbcdb641^56d2bed7bbcdb641^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/tryumura/_TestSource/Dragon/Dragon/Dragon-Prefix.pch0000000000000000^3050"ProcessPCH /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-ehxmxllvwtsswjgqdaxgkvyjayzv/Dragon-Prefix.pch.pth Dragon/Dragon-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tryumura/_TestSource/Dragon    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-generated-files.hmap -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-own-target-headers.hmap -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-all-target-headers.hmap -iquote /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/Dragon-project-headers.hmap -I/Users/tryumura/_TestSource/Dragon/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/DerivedSources/armv7 -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphoneos/Dragon.build/DerivedSources -F/Users/tryumura/_TestSource/Dragon/build/Release-iphoneos --serialize-diagnostics /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-ehxmxllvwtsswjgqdaxgkvyjayzv/Dragon-Prefix.pch.dia -c /Users/tryumura/_TestSource/Dragon/Dragon/Dragon-Prefix.pch -o /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-ehxmxllvwtsswjgqdaxgkvyjayzv/Dragon-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-ehxmxllvwtsswjgqdaxgkvyjayzv/Dragon-Prefix.pch.d36"3EFBB7E3-11FA-45EE-B541-023D53E6E8AF-
-

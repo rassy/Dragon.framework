@@ -1,111 +1,0 @@
-TDragon
-v5
-r1
-cCheck dependencies
-cProcessPCH /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-avqcelocimkibzgthyfxtwynmhrr/Dragon-Prefix.pch.pth Dragon/Dragon-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.o /Users/tryumura/_TestSource/Dragon/Dragon/Dragon.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/tryumura/_TestSource/Dragon/build/Release-iphonesimulator/libDragon.a normal i386
-cPBXCp Dragon/Dragon.h build/Release-iphonesimulator/include/Dragon/Dragon.h
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
-c0000000050EDEAFB0000000000000110
-t1357769467
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c0000000051149F6300000000003DDFA0
-t1360306019
-s4054944
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c0000000051149F6200000000000015F7
-t1360306018
-s5623
-
-N/Users/tryumura/_TestSource/Dragon/Dragon/Dragon-Prefix.pch
-c00000000511D81970000000000000096
-t1360888215
-s150
-i<Foundation/Foundation.h>
-
-N/Users/tryumura/_TestSource/Dragon/Dragon/Dragon.h
-c00000000511D819700000000000000D6
-t1360888215
-s214
-
-N/Users/tryumura/_TestSource/Dragon/Dragon/Dragon.m
-c00000000511D819700000000000000C1
-t1360888215
-s193
-
-N/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.LinkFileList
-c00000000511D82A20000000000000078
-t1360888482
-s120
-
-N/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.o
-t2
-s0
-
-N/Users/tryumura/_TestSource/Dragon/build/Release-iphonesimulator/include/Dragon/Dragon.h
-t2
-s0
-
-N/Users/tryumura/_TestSource/Dragon/build/Release-iphonesimulator/libDragon.a
-t2
-s0
-
-N/var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-avqcelocimkibzgthyfxtwynmhrr/Dragon-Prefix.pch.pth
-t2
-s0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb0e50922bacdb641^3c153c22bacdb641^---0#1#0#--18"Check dependencies36"51EB7447-F71B-472F-AE0C-3F3C16D30EF1-
-
-CCompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.o /Users/tryumura/_TestSource/Dragon/Dragon/Dragon.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382581284.223304
-e382581284.495065
-r1
-xCompileC
-xbuild/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.o
-x/Users/tryumura/_TestSource/Dragon/Dragon/Dragon.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/tryumura/_TestSource/Dragon/Dragon/Dragon.meca53924bacdb641^e8bc7e24bacdb641^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/Users/tryumura/_TestSource/Dragon/Dragon/Dragon.m0000000000000000^4020"CompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.o Dragon/Dragon.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tryumura/_TestSource/Dragon    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-generated-files.hmap -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-own-target-headers.hmap -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-all-target-headers.hmap -iquote /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-project-headers.hmap -I/Users/tryumura/_TestSource/Dragon/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources/i386 -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources -F/Users/tryumura/_TestSource/Dragon/build/Release-iphonesimulator -include /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-avqcelocimkibzgthyfxtwynmhrr/Dragon-Prefix.pch -MMD -MT dependencies -MF /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.d --serialize-diagnostics /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.dia -c /Users/tryumura/_TestSource/Dragon/Dragon/Dragon.m -o /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.o36"3EEAD1DA-D108-4929-A420-AD18AC1B5DFE-
-
-CLibtool /Users/tryumura/_TestSource/Dragon/build/Release-iphonesimulator/libDragon.a normal i386
-s382581284.501814
-e382581284.541072
-r1
-xLibtool
-x/Users/tryumura/_TestSource/Dragon/build/Release-iphonesimulator/libDragon.a
-xnormal
-xi386
-o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Libtool build/Release-iphonesimulator/libDragon.a normal i38609e28024bacdb641^48888a24bacdb641^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1591"Libtool build/Release-iphonesimulator/libDragon.a normal i386    cd /Users/tryumura/_TestSource/Dragon    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/tryumura/_TestSource/Dragon/build/Release-iphonesimulator -filelist /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.LinkFileList -ObjC -framework Foundation -o /Users/tryumura/_TestSource/Dragon/build/Release-iphonesimulator/libDragon.a36"E018F4B7-9C97-486E-BDCA-3B43CE41BEE2-
-
-CPBXCp Dragon/Dragon.h build/Release-iphonesimulator/include/Dragon/Dragon.h
-s382581284.550292
-e382581284.554328
-r1
-xPBXCp
-xDragon/Dragon.h
-xbuild/Release-iphonesimulator/include/Dragon/Dragon.h
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/Release-iphonesimulator/include/Dragon/Dragon.hf0308d24bacdb641^81e88d24bacdb641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/tryumura/_TestSource/Dragon/build/Release-iphonesimulator/include/Dragon/Dragon.h000000000080d041^1365"PBXCp Dragon/Dragon.h build/Release-iphonesimulator/include/Dragon/Dragon.h    cd /Users/tryumura/_TestSource/Dragon    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/tryumura/_TestSource/Dragon/Dragon/Dragon.h /Users/tryumura/_TestSource/Dragon/build/Release-iphonesimulator/include/Dragon36"B0A54DE7-42B6-4B23-8B92-C591D063F5A2-
-
-CProcessPCH /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-avqcelocimkibzgthyfxtwynmhrr/Dragon-Prefix.pch.pth Dragon/Dragon-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s382581282.241708
-e382581284.215204
-r1
-xProcessPCH
-x/var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-avqcelocimkibzgthyfxtwynmhrr/Dragon-Prefix.pch.pth
-xDragon/Dragon-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile Dragon/Dragon-Prefix.pch88853e22bacdb641^f9153724bacdb641^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/tryumura/_TestSource/Dragon/Dragon/Dragon-Prefix.pch0000000000000000^4070"ProcessPCH /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-avqcelocimkibzgthyfxtwynmhrr/Dragon-Prefix.pch.pth Dragon/Dragon-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tryumura/_TestSource/Dragon    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-generated-files.hmap -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-own-target-headers.hmap -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-all-target-headers.hmap -iquote /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-project-headers.hmap -I/Users/tryumura/_TestSource/Dragon/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources/i386 -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources -F/Users/tryumura/_TestSource/Dragon/build/Release-iphonesimulator --serialize-diagnostics /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-avqcelocimkibzgthyfxtwynmhrr/Dragon-Prefix.pch.dia -c /Users/tryumura/_TestSource/Dragon/Dragon/Dragon-Prefix.pch -o /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-avqcelocimkibzgthyfxtwynmhrr/Dragon-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-avqcelocimkibzgthyfxtwynmhrr/Dragon-Prefix.pch.d36"7D8BDAB7-A7A2-40E2-A6D1-57FA27C84E45-
-
