@@ -2,13 +2,16 @@ TDragon
 v5
 r1
 cCheck dependencies
-cProcessPCH /var/folders/6q/060kjt6s2z961z4thqhxshsw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Dragon-Prefix-asuglskqgnhyypbpnosdqbmvhlwu/Dragon-Prefix.pch.pth Dragon/Dragon-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRAlertView.o /Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Classes/DRAlertView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.o /Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Classes/Dragon.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRView.o /Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Classes/DRView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/tomohiro/iOS/DragonFramework/Dragon/build/Release-iphonesimulator/libDragon.a normal i386
+cProcessPCH /var/folders/6q/060kjt6s2z961z4thqhxshsw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Dragon-Prefix-cftzpldlxrnqlweaeahhmdwmracu/Dragon-Prefix.pch.pth Dragon/Dragon-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.o /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/Dragon.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRAlertView.o /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRAlertView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRView.o /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRTableViewController.o /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator/libDragon.a normal i386
 cPBXCp Dragon/Headers/Dragon.h build/Release-iphonesimulator/include/Dragon/Dragon.h
 cPBXCp Dragon/Headers/DRView.h build/Release-iphonesimulator/include/Dragon/DRView.h
+cPBXCp Dragon/Headers/DRTableViewController.h build/Release-iphonesimulator/include/Dragon/DRTableViewController.h
+cPBXCp Dragon/Headers/DRAlertView.h build/Release-iphonesimulator/include/Dragon/DRAlertView.h
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
 c000000004EAB00000000000000000110
@@ -39,6 +42,93 @@ N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/D
 c0000000051149F6200000000000015F7
 t1360306018
 s5623
+
+N/Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRAlertView.m
+c00000000511E495F000000000000068A
+t1360939359
+s1674
+
+N/Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRTableViewController.m
+c000000005124BE3100000000000009B2
+t1361362481
+s2482
+
+N/Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRView.m
+c00000000511D83F100000000000000C1
+t1360888817
+s193
+
+N/Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/Dragon.m
+c00000000511E11B300000000000000D8
+t1360925107
+s216
+
+N/Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Dragon-Prefix.pch
+c00000000511D81970000000000000096
+t1360888215
+s150
+i<Foundation/Foundation.h>
+
+N/Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Headers/DRAlertView.h
+c00000000511E48A00000000000000259
+t1360939168
+s601
+
+N/Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Headers/DRTableViewController.h
+c0000000051238B3D00000000000001FA
+t1361283901
+s506
+
+N/Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Headers/DRView.h
+c00000000511D83F100000000000000D6
+t1360888817
+s214
+
+N/Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Headers/Dragon.h
+c00000000511E11AC00000000000000D5
+t1360925100
+s213
+
+N/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRAlertView.o
+t1361282644
+s76824
+
+N/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRTableViewController.o
+t1361362444
+s79636
+
+N/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRView.o
+t1361282644
+s3264
+
+N/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.LinkFileList
+c00000000512386520000000000000218
+t1361282642
+s536
+
+N/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.o
+t1361282644
+s3264
+
+N/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator/include/Dragon/DRAlertView.h
+t1361282768
+s601
+
+N/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator/include/Dragon/DRTableViewController.h
+t1361283916
+s506
+
+N/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator/include/Dragon/DRView.h
+t1360891696
+s214
+
+N/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator/include/Dragon/Dragon.h
+t1360929111
+s213
+
+N/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator/libDragon.a
+t1361362444
+s164152
 
 N/Users/tomohiro/iOS/Dragon/Dragon/Dragon-Prefix.pch
 c00000000511D81970000000000000096
@@ -92,19 +182,19 @@ t1360925002
 s71016
 
 N/Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Classes/DRAlertView.m
-c00000000511E495F000000000000068A
-t1360939359
-s1674
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Classes/DRView.m
-c00000000511D83F100000000000000C1
-t1360888817
-s193
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Classes/Dragon.m
-c00000000511E11B300000000000000D8
-t1360925107
-s216
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Dragon-Prefix.pch
 c00000000511D81970000000000000096
@@ -113,9 +203,9 @@ s150
 i<Foundation/Foundation.h>
 
 N/Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Headers/DRAlertView.h
-c00000000511E48A00000000000000259
-t1360939168
-s601
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Headers/DRAlertView.m
 c00000000000000000000000000000000
@@ -123,9 +213,9 @@ t2
 s0
 
 N/Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Headers/DRView.h
-c00000000511D83F100000000000000D6
-t1360888817
-s214
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Headers/DRView.m
 c00000000000000000000000000000000
@@ -133,9 +223,9 @@ t2
 s0
 
 N/Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Headers/Dragon.h
-c00000000511E11AC00000000000000D5
-t1360925100
-s213
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Headers/Dragon.m
 c00000000000000000000000000000000
@@ -236,6 +326,10 @@ N/var/folders/6q/060kjt6s2z961z4thqhxshsw0000gn/C/com.apple.Xcode.501/SharedPrec
 t1360929111
 s2599160
 
+N/var/folders/6q/060kjt6s2z961z4thqhxshsw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Dragon-Prefix-cftzpldlxrnqlweaeahhmdwmracu/Dragon-Prefix.pch.pth
+t1361282644
+s2599168
+
 N/var/folders/6q/060kjt6s2z961z4thqhxshsw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Dragon-Prefix-cjqujmwamofqljdbnmswvumnnepm/Dragon-Prefix.pch.pth
 t1360925000
 s2599016
@@ -250,7 +344,20 @@ s2599088
 
 CCheck dependencies
 r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesef70a7e180ceb641^bda9c4e180ceb641^---0#1#0#--18"Check dependencies36"D0EBE55A-876A-4921-9A72-7C0C0C5A1A03-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies3f704db4f5d4b641^486f6cb4f5d4b641^---0#1#0#--18"Check dependencies36"2E2586B4-3767-48A2-AEA5-487F33ADA123-
+
+CCompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRAlertView.o /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRAlertView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382975444.225847
+e382975444.841797
+r1
+xCompileC
+xbuild/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRAlertView.o
+x/Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRAlertView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRAlertView.ma6483ad4bdd3b641^268fd7d4bdd3b641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRAlertView.m0000000000000000^3305"CompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRAlertView.o Dragon/Classes/DRAlertView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tomohiro/iOS/Dragon.framework/Dragon    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-generated-files.hmap -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-own-target-headers.hmap -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-all-target-headers.hmap -iquote /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-project-headers.hmap -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources/i386 -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources -F/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator -include /var/folders/6q/060kjt6s2z961z4thqhxshsw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Dragon-Prefix-cftzpldlxrnqlweaeahhmdwmracu/Dragon-Prefix.pch -MMD -MT dependencies -MF /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRAlertView.d --serialize-diagnostics /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRAlertView.dia -c /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRAlertView.m -o /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRAlertView.o36"E64D24AA-E130-481F-9CDD-193CAC49DEF3-
 
 CCompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRAlertView.o /Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Classes/DRAlertView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s382632161.801522
@@ -277,6 +384,32 @@ xi386
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Headers/DRAlertView.mb72893d758ceb641^721ad2d758ceb641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Headers/DRAlertView.m0000000000000000^4170"CompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRAlertView.o Dragon/Headers/DRAlertView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tomohiro/iOS/DragonFramework/Dragon    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/tomohiro/iOS/DragonFramework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-generated-files.hmap -I/Users/tomohiro/iOS/DragonFramework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-own-target-headers.hmap -I/Users/tomohiro/iOS/DragonFramework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-all-target-headers.hmap -iquote /Users/tomohiro/iOS/DragonFramework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-project-headers.hmap -I/Users/tomohiro/iOS/DragonFramework/Dragon/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tomohiro/iOS/DragonFramework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources/i386 -I/Users/tomohiro/iOS/DragonFramework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources -F/Users/tomohiro/iOS/DragonFramework/Dragon/build/Release-iphonesimulator -include /var/folders/6q/060kjt6s2z961z4thqhxshsw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Dragon-Prefix-asuglskqgnhyypbpnosdqbmvhlwu/Dragon-Prefix.pch -MMD -MT dependencies -MF /Users/tomohiro/iOS/DragonFramework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRAlertView.d --serialize-diagnostics /Users/tomohiro/iOS/DragonFramework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRAlertView.dia -c /Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Headers/DRAlertView.m -o /Users/tomohiro/iOS/DragonFramework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRAlertView.o36"570957A8-5188-4647-8382-568089522B51-
+
+CCompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRTableViewController.o /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s383055284.437834
+e383055284.627384
+r1
+xCompileC
+xbuild/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRTableViewController.o
+x/Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRTableViewController.md89f70b4f5d4b641^fab6a0b4f5d4b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRTableViewController.m0000000000000000^3365"CompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRTableViewController.o Dragon/Classes/DRTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tomohiro/iOS/Dragon.framework/Dragon    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-generated-files.hmap -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-own-target-headers.hmap -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-all-target-headers.hmap -iquote /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-project-headers.hmap -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources/i386 -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources -F/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator -include /var/folders/6q/060kjt6s2z961z4thqhxshsw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Dragon-Prefix-cftzpldlxrnqlweaeahhmdwmracu/Dragon-Prefix.pch -MMD -MT dependencies -MF /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRTableViewController.d --serialize-diagnostics /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRTableViewController.dia -c /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRTableViewController.m -o /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRTableViewController.o36"64B804E7-2D25-455C-8558-1528CD0BADFE-
+
+CCompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRView.o /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382975444.743349
+e382975444.789300
+r1
+xCompileC
+xbuild/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRView.o
+x/Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRView.mebc3bed4bdd3b641^bd1ccad4bdd3b641^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRView.m0000000000000000^3275"CompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRView.o Dragon/Classes/DRView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tomohiro/iOS/Dragon.framework/Dragon    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-generated-files.hmap -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-own-target-headers.hmap -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-all-target-headers.hmap -iquote /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-project-headers.hmap -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources/i386 -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources -F/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator -include /var/folders/6q/060kjt6s2z961z4thqhxshsw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Dragon-Prefix-cftzpldlxrnqlweaeahhmdwmracu/Dragon-Prefix.pch -MMD -MT dependencies -MF /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRView.d --serialize-diagnostics /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRView.dia -c /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRView.m -o /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRView.o36"6F157D69-920E-43B9-814F-4875B1A0613F-
 
 CCompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRView.o /Users/tomohiro/iOS/Dragon/Dragon/Headers/DRView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s382617800.330034
@@ -329,6 +462,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/tryumura/_TestSource/Dragon/Dragon/Headers/DRView.m9bad6cb8c2cdb641^539572b8c2cdb641^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/tryumura/_TestSource/Dragon/Dragon/Headers/DRView.m0000000000000000^4036"CompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRView.o Dragon/Headers/DRView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tryumura/_TestSource/Dragon    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-generated-files.hmap -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-own-target-headers.hmap -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-all-target-headers.hmap -iquote /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-project-headers.hmap -I/Users/tryumura/_TestSource/Dragon/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources/i386 -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources -F/Users/tryumura/_TestSource/Dragon/build/Release-iphonesimulator -include /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-fymfhxssyalfovczmtyvsqevmgvz/Dragon-Prefix.pch -MMD -MT dependencies -MF /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRView.d --serialize-diagnostics /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRView.dia -c /Users/tryumura/_TestSource/Dragon/Dragon/Headers/DRView.m -o /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/DRView.o36"95E17582-9C40-4CB3-8390-4C88F81D0742-
+
+CCompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.o /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/Dragon.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382975444.225449
+e382975444.722858
+r1
+xCompileC
+xbuild/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.o
+x/Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/Dragon.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/Dragon.meb383ad4bdd3b641^151db9d4bdd3b641^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/Dragon.m0000000000000000^3275"CompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.o Dragon/Classes/Dragon.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tomohiro/iOS/Dragon.framework/Dragon    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-generated-files.hmap -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-own-target-headers.hmap -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-all-target-headers.hmap -iquote /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-project-headers.hmap -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources/i386 -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources -F/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator -include /var/folders/6q/060kjt6s2z961z4thqhxshsw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Dragon-Prefix-cftzpldlxrnqlweaeahhmdwmracu/Dragon-Prefix.pch -MMD -MT dependencies -MF /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.d --serialize-diagnostics /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.dia -c /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/Dragon.m -o /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.o36"F7E91F3A-B956-4800-A39E-90EC14E9F3BA-
 
 CCompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.o /Users/tomohiro/iOS/Dragon/Dragon/Headers/Dragon.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s382617800.330345
@@ -395,6 +541,17 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/tryumura/_TestSource/Dragon/Dragon/Headers/Dragon.m185add08c7cdb641^cc2a100ac7cdb641^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/tryumura/_TestSource/Dragon/Dragon/Headers/Dragon.m0000000000000000^4036"CompileC build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.o Dragon/Headers/Dragon.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tryumura/_TestSource/Dragon    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-generated-files.hmap -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-own-target-headers.hmap -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-all-target-headers.hmap -iquote /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-project-headers.hmap -I/Users/tryumura/_TestSource/Dragon/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources/i386 -I/Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources -F/Users/tryumura/_TestSource/Dragon/build/Release-iphonesimulator -include /var/folders/rn/68c4n4_51f1b8xqyf1d_g89h0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/Dragon-Prefix-fymfhxssyalfovczmtyvsqevmgvz/Dragon-Prefix.pch -MMD -MT dependencies -MF /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.d --serialize-diagnostics /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.dia -c /Users/tryumura/_TestSource/Dragon/Dragon/Headers/Dragon.m -o /Users/tryumura/_TestSource/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.o36"2FEE70DF-68F5-4964-8D3E-E4FA600C49BF-
 
+CLibtool /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator/libDragon.a normal i386
+s383055284.634231
+e383055284.648242
+r1
+xLibtool
+x/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator/libDragon.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Libtool build/Release-iphonesimulator/libDragon.a normal i38613d2a2b4f5d4b641^664ba6b4f5d4b641^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--749"Libtool build/Release-iphonesimulator/libDragon.a normal i386    cd /Users/tomohiro/iOS/Dragon.framework/Dragon    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator -filelist /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Objects-normal/i386/Dragon.LinkFileList -ObjC -framework Foundation -o /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator/libDragon.a36"0FCB38A6-C151-422B-B564-F9D4EB004ECE-
+
 CLibtool /Users/tomohiro/iOS/Dragon/build/Release-iphonesimulator/libDragon.a normal i386
 s382617802.478173
 e382617802.514706
@@ -437,6 +594,24 @@ xDragon/Dragon.h
 xbuild/Release-iphonesimulator/include/Dragon/Dragon.h
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/Release-iphonesimulator/include/Dragon/Dragon.hf0308d24bacdb641^81e88d24bacdb641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/tryumura/_TestSource/Dragon/build/Release-iphonesimulator/include/Dragon/Dragon.h000000000080d041^1365"PBXCp Dragon/Dragon.h build/Release-iphonesimulator/include/Dragon/Dragon.h    cd /Users/tryumura/_TestSource/Dragon    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/tryumura/_TestSource/Dragon/Dragon/Dragon.h /Users/tryumura/_TestSource/Dragon/build/Release-iphonesimulator/include/Dragon36"B0A54DE7-42B6-4B23-8B92-C591D063F5A2-
 
+CPBXCp Dragon/Headers/DRAlertView.h build/Release-iphonesimulator/include/Dragon/DRAlertView.h
+s382975568.857492
+e382975568.861384
+r1
+xPBXCp
+xDragon/Headers/DRAlertView.h
+xbuild/Release-iphonesimulator/include/Dragon/DRAlertView.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Release-iphonesimulator/include/Dragon/DRAlertView.h9cfbdb50bed3b641^d690dc50bed3b641^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator/include/Dragon/DRAlertView.h000000000080d041^545"PBXCp Dragon/Headers/DRAlertView.h build/Release-iphonesimulator/include/Dragon/DRAlertView.h    cd /Users/tomohiro/iOS/Dragon.framework/Dragon    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Headers/DRAlertView.h /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator/include/Dragon36"0F1ED6FF-8769-43F9-887B-576460D3C2E5-
+
+CPBXCp Dragon/Headers/DRTableViewController.h build/Release-iphonesimulator/include/Dragon/DRTableViewController.h
+s382976716.031608
+e382976716.036091
+r1
+xPBXCp
+xDragon/Headers/DRTableViewController.h
+xbuild/Release-iphonesimulator/include/Dragon/DRTableViewController.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy build/Release-iphonesimulator/include/Dragon/DRTableViewController.hbe8608ccc2d3b641^284709ccc2d3b641^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator/include/Dragon/DRTableViewController.h0000000000000000^575"PBXCp Dragon/Headers/DRTableViewController.h build/Release-iphonesimulator/include/Dragon/DRTableViewController.h    cd /Users/tomohiro/iOS/Dragon.framework/Dragon    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Headers/DRTableViewController.h /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator/include/Dragon36"D5858A07-9BC5-4B63-9C5D-D4DBA26339E0-
+
 CPBXCp Dragon/Headers/DRView.h build/Release-iphonesimulator/include/Dragon/DRView.h
 s382584496.209034
 e382584496.213718
@@ -467,6 +642,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile Dragon/Dragon-Prefix.pch081d08d758ceb641^b08d7cd758ceb641^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Dragon-Prefix.pch0000000000000000^4150"ProcessPCH /var/folders/6q/060kjt6s2z961z4thqhxshsw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Dragon-Prefix-asuglskqgnhyypbpnosdqbmvhlwu/Dragon-Prefix.pch.pth Dragon/Dragon-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tomohiro/iOS/DragonFramework/Dragon    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/tomohiro/iOS/DragonFramework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-generated-files.hmap -I/Users/tomohiro/iOS/DragonFramework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-own-target-headers.hmap -I/Users/tomohiro/iOS/DragonFramework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-all-target-headers.hmap -iquote /Users/tomohiro/iOS/DragonFramework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-project-headers.hmap -I/Users/tomohiro/iOS/DragonFramework/Dragon/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tomohiro/iOS/DragonFramework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources/i386 -I/Users/tomohiro/iOS/DragonFramework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources -F/Users/tomohiro/iOS/DragonFramework/Dragon/build/Release-iphonesimulator --serialize-diagnostics /var/folders/6q/060kjt6s2z961z4thqhxshsw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Dragon-Prefix-asuglskqgnhyypbpnosdqbmvhlwu/Dragon-Prefix.pch.dia -c /Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Dragon-Prefix.pch -o /var/folders/6q/060kjt6s2z961z4thqhxshsw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Dragon-Prefix-asuglskqgnhyypbpnosdqbmvhlwu/Dragon-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/6q/060kjt6s2z961z4thqhxshsw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Dragon-Prefix-asuglskqgnhyypbpnosdqbmvhlwu/Dragon-Prefix.pch.d36"447469BD-4BE6-4CAF-90AA-ACFBC93C60B5-
+
+CProcessPCH /var/folders/6q/060kjt6s2z961z4thqhxshsw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Dragon-Prefix-cftzpldlxrnqlweaeahhmdwmracu/Dragon-Prefix.pch.pth Dragon/Dragon-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382975442.914488
+e382975444.218396
+r1
+xProcessPCH
+x/var/folders/6q/060kjt6s2z961z4thqhxshsw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Dragon-Prefix-cftzpldlxrnqlweaeahhmdwmracu/Dragon-Prefix.pch.pth
+xDragon/Dragon-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile Dragon/Dragon-Prefix.pch9bc6ead2bdd3b641^c0e737d4bdd3b641^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Dragon-Prefix.pch0000000000000000^3282"ProcessPCH /var/folders/6q/060kjt6s2z961z4thqhxshsw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Dragon-Prefix-cftzpldlxrnqlweaeahhmdwmracu/Dragon-Prefix.pch.pth Dragon/Dragon-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tomohiro/iOS/Dragon.framework/Dragon    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-generated-files.hmap -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-own-target-headers.hmap -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-all-target-headers.hmap -iquote /Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/Dragon-project-headers.hmap -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources/i386 -I/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Dragon.build/Release-iphonesimulator/Dragon.build/DerivedSources -F/Users/tomohiro/iOS/Dragon.framework/Dragon/build/Release-iphonesimulator --serialize-diagnostics /var/folders/6q/060kjt6s2z961z4thqhxshsw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Dragon-Prefix-cftzpldlxrnqlweaeahhmdwmracu/Dragon-Prefix.pch.dia -c /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Dragon-Prefix.pch -o /var/folders/6q/060kjt6s2z961z4thqhxshsw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Dragon-Prefix-cftzpldlxrnqlweaeahhmdwmracu/Dragon-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/6q/060kjt6s2z961z4thqhxshsw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Dragon-Prefix-cftzpldlxrnqlweaeahhmdwmracu/Dragon-Prefix.pch.d36"B7FF3A32-69D3-49BB-AFF8-F8F203384070-
 
 CProcessPCH /var/folders/6q/060kjt6s2z961z4thqhxshsw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Dragon-Prefix-cjqujmwamofqljdbnmswvumnnepm/Dragon-Prefix.pch.pth Dragon/Dragon-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s382617796.577662

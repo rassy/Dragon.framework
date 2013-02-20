@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Classes/Dragon.m \
-  /Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Headers/Dragon.h
+  /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/Dragon.m \
+  /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Headers/Dragon.h

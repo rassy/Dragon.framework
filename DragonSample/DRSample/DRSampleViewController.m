@@ -7,6 +7,7 @@
 //
 
 #import "DRSampleViewController.h"
+#import "DRSampleTableViewController.h"
 #import <Dragon/DRAlertView.h>
 
 @interface DRSampleViewController ()<UITableViewDataSource, UITableViewDelegate>
@@ -38,6 +39,7 @@
     
     self.list = [NSArray arrayWithObjects:
                  @"DRAlertViewBlocks",
+                 @"DRTableViewController",
                  nil];
 }
 
@@ -79,5 +81,9 @@
         NSLog(@"Else Clicked.");
     }];
     [alertView show];
+}
+- (void)DRTableViewControllerWithIndex:(NSNumber *)index {
+    DRSampleTableViewController *tableViewController = [[DRSampleTableViewController alloc] init];
+    [self.navigationController pushViewController:tableViewController animated:YES];
 }
 @end

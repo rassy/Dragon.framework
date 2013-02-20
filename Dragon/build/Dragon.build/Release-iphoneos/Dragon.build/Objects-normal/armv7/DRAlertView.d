@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Classes/DRAlertView.m \
-  /Users/tomohiro/iOS/DragonFramework/Dragon/Dragon/Headers/DRAlertView.h
+  /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Classes/DRAlertView.m \
+  /Users/tomohiro/iOS/Dragon.framework/Dragon/Dragon/Headers/DRAlertView.h

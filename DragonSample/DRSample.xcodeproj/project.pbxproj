@@ -18,6 +18,7 @@
 		B1A82A6F16CE821D00E81473 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B1A82A6616CE821D00E81473 /* Default@2x.png */; };
 		B1A82A7116CE821D00E81473 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B1A82A6A16CE821D00E81473 /* InfoPlist.strings */; };
 		B1A82A7216CE821D00E81473 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B1A82A6C16CE821D00E81473 /* main.m */; };
+		B1B8B26416D3BD61007CBAE9 /* DRSampleTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B1B8B26316D3BD61007CBAE9 /* DRSampleTableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		B1A82A6816CE821D00E81473 /* DRSample-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "DRSample-Prefix.pch"; path = "DRSample/DRSample-Prefix.pch"; sourceTree = SOURCE_ROOT; };
 		B1A82A6B16CE821D00E81473 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = InfoPlist.strings; sourceTree = "<group>"; };
 		B1A82A6C16CE821D00E81473 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = DRSample/main.m; sourceTree = SOURCE_ROOT; };
+		B1B8B26216D3BD61007CBAE9 /* DRSampleTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DRSampleTableViewController.h; path = DRSample/DRSampleTableViewController.h; sourceTree = SOURCE_ROOT; };
+		B1B8B26316D3BD61007CBAE9 /* DRSampleTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DRSampleTableViewController.m; path = DRSample/DRSampleTableViewController.m; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +93,8 @@
 				B1A82A6016CE820C00E81473 /* DRSampleViewController.h */,
 				B1A82A6116CE820C00E81473 /* DRSampleViewController.m */,
 				B1A82A3616CE582B00E81473 /* Supporting Files */,
+				B1B8B26216D3BD61007CBAE9 /* DRSampleTableViewController.h */,
+				B1B8B26316D3BD61007CBAE9 /* DRSampleTableViewController.m */,
 			);
 			name = DRSample;
 			path = DragonSample;
@@ -187,6 +192,7 @@
 				B1A82A6216CE820C00E81473 /* DRSampleAppDelegate.m in Sources */,
 				B1A82A6316CE820C00E81473 /* DRSampleViewController.m in Sources */,
 				B1A82A7216CE821D00E81473 /* main.m in Sources */,
+				B1B8B26416D3BD61007CBAE9 /* DRSampleTableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
